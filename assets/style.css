@@ -1,0 +1,76 @@
+/* HEADER */
+#intestazione {
+    text-align: center;
+}
+
+.logo{
+    padding: 1rem;
+    height: 4rem;
+}
+
+#intestazione>p {
+    margin-left: 18rem;
+    margin-right: 18rem;
+}
+.subtitle {
+    border-top: 0.1em solid #ffd877;
+    background-color: #fdfbf1;
+    padding-bottom: 0.2em;
+    color: #004d4c;
+}
+
+a {
+    color: #107777;
+}
+
+h1 {
+    padding-top: 2rem;
+    text-align: center;   
+}
+
+h3{
+    padding-top: 3rem;
+    border-bottom: 0.1em solid #c4f3f2;
+}
+
+/*corpo principale*/
+
+.corpo{  
+    width: 800px;
+    margin: 0 auto;
+    line-height: 2.4rem;
+}
+
+.corpo#method{
+    line-height: 1.5rem;
+}
+
+/* Video/Foto */ 
+
+#video {
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    border: 2px transparent black;
+    box-shadow: 8px 8px 20px grey ;
+    text-align: center;
+}
+
+
+#copyright {
+    text-align: center;
+    color: grey;
+    font-size: 0.9rem;
+}
+
+
+.features{
+    color: #b5460f;
+    border-left: 0.1em solid #ffd877;
+    text-transform: capitalize;
+    padding-left: 0.5em;
+}
+
+#home{
+    margin: 0 18rem;
+}
